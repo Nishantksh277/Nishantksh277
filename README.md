@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishant Kumar Sharma</h1>
 <h3 align="center">A Data Analyst passionate about turning raw data into actionable insights</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/31/4c/d3/314cd335170bd8a8f4e3142b1d7326c5.jpg">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/1200x/6e/ed/b4/6eedb4be08132f2b1323040356723922.jpg">
 
 A data enthusiast with a strong foundation in business and analytics. I hold a BBA degree from IGNOU and bring 1.5+ years of experience as a Senior Operations Associate at Hero MotoCorp, where I developed my problem-solving and process optimization skills.
 
