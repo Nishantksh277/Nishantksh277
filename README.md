@@ -2,11 +2,11 @@
 <h3 align="center">A Data Analyst passionate about turning raw data into actionable insights</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/31/4c/d3/314cd335170bd8a8f4e3142b1d7326c5.jpg">
 
+A data enthusiast with a strong foundation in business and analytics. I hold a BBA degree from IGNOU and bring 1.5+ years of experience as a Senior Operations Associate at Hero MotoCorp, where I developed my problem-solving and process optimization skills.
 
-- 🔍 I specialize in **Data Analysis, Dashboarding, SQL, and Python**
-- 🧠 Always curious to explore new tools and techniques in the data world
-- 📊 My goal: Help businesses make data-driven decisions with confidence
-- 💼 Currently open to analyst roles in **E-commerce | Finance | Tech |Business | Market Research |**
+Recently, I completed a Data Science internship at CodSoft, working on impactful projects like customer segmentation using RFM, churn prediction using SQL + Power BI, and social media sentiment analysis.
+
+My core skills include Excel, SQL, Python, and Power BI, and I’m passionate about converting raw data into actionable insights. I’m currently seeking opportunities in Data or Business Analytics where I can bridge business goals with data-driven strategies.
 
 ---
 
