@@ -2,7 +2,7 @@
 <h3 align="center">A Data Analyst passionate about turning raw data into actionable insights</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/4f/32/9f/4f329fb63464e5206d5dbb6413522bc1.jpg">
 
-A data enthusiast with a strong foundation in business and analytics. I hold a BBA degree from IGNOU and bring 1.5+ years of experience as a Senior Operations Associate at Hero MotoCorp, where I developed my problem-solving and process optimization skills.
+Aspiring Data Analyst with a strong foundation in business and analytics. I hold a BBA degree from IGNOU and bring 1.5+ years of experience as a Senior Operations Associate at Hero MotoCorp, where I developed my problem-solving and process optimization skills. And pursuing **IBM Data Scientist** course from **Simplilearn**
 
 Recently, I completed a Data Science internship at CodSoft, working on impactful projects like customer segmentation using RFM, churn prediction using SQL + Power BI, and social media sentiment analysis.
 
