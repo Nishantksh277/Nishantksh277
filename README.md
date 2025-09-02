@@ -23,7 +23,7 @@ My core skills include Excel, SQL, Python, and Power BI, and I’m passionate ab
 ---
 
 ### 📫 Let's Connect!
-- 📧 Email: Nish.sh27@gmail.com  
+- 📧 Email: Sharma.nishant2k1@gmail.com  
 - 🐱 GitHub: [Nishant Sharma](https://github.com/Nishantksh277)
 - 💼 LinkedIn: [Nishant Sharma](https://www.linkedin.com/in/nishantsharma2k1/)
 - 🔗 Portfolio Website: [Nishant Sharma](https://github.com/Nishantksh277/Nishant-Sharma.github.io)  
